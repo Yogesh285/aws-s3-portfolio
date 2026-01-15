@@ -39,9 +39,6 @@ Disabled block public access for required objects
 
 Accessed the website using the S3 website endpoint
 
-🌐 Live Website
-
-
 
 Example:
 
